@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "screenverb": {
+      "type": "http",
+      "url": "https://mcp.screenverb.com/mcp"
+    }
+  }
+}

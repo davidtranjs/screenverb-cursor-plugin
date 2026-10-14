@@ -1,0 +1,30 @@
+{
+  "name": "screenverb",
+  "displayName": "ScreenVerb",
+  "version": "1.1.0",
+  "description": "Search, read and organize the screenshots in your ScreenVerb cloud library.",
+  "author": {
+    "name": "ScreenVerb",
+    "email": "support@screenverb.com"
+  },
+  "homepage": "https://screenverb.com/docs/mcp",
+  "repository": "https://github.com/davidtranjs/screenverb-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "screenverb",
+    "screenshots",
+    "ocr",
+    "search",
+    "productivity",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "screenverb",
+    "screenshots",
+    "ocr",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
